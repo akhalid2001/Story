@@ -1,1 +1,3 @@
 It was the age of the wisdome, this is chapter2.
+Yes.
+The story line will now continue on alien-plot branch.
